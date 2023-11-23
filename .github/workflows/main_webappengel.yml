@@ -54,4 +54,4 @@ jobs:
           app-name: 'webappengel'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA9CAE814786468CA1B41642865C5873 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_921B28077FD24A0588948C2235F69DF3 }}
